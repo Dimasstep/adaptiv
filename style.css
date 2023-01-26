@@ -1,0 +1,51 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    width: 1000px;
+    margin-top: auto;
+    padding: 1%;
+    margin: 1%;
+    color: #fff;
+    background-color: rgb(28, 41, 41);
+
+
+}
+
+.titleone, .titletwo {
+    color: rgb(46, 149, 156);
+}
+
+.titleContent {
+    font-size: 18px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 200;
+    font-style: normal;
+    line-height: 1.5;
+    width: 100%;
+    height: 200px;
+    background-color;
+    border: 1px solid rgb(46, 149, 156);
+    border-radius: 5px;
+    padding: 4px;
+    
+    
+}
+.titletwo1{
+    color:rgb(46, 149, 156);
+    line-height: 2;
+}
+.titletwo2 {
+    font-size: 18px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 200;
+    font-style: normal;
+    line-height: 1.5;
+    width: 100%;
+    padding: 5px;
+    border: 1px solid rgb(46, 149, 156);
+}
+
+
